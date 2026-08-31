@@ -78,3 +78,13 @@ Personal-Finance-Manager/
 This project was built as a Python learning project to practice programming concepts such as functions, file handling, exception handling, modules, and working with dates and times.
 
 It will be improved over time as new Python and software development concepts are learned.
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### Summary
+![Summary](screenshots/summary.png)
